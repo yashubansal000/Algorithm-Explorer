@@ -1,3 +1,3 @@
 # Algorithm Explorer
 
-Visual learning tool for Huffman and String Matching algorithms.
+An interactive React-based visualizer for Huffman Encoding and String Matching algorithms.

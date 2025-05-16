@@ -3,7 +3,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import HomePage from "./components/HomePage";
 import HuffmanPage from "./components/HuffmanPage";
-import NaivePage from "./components/NaivePage";
+import NaivePage from "./components/NaiveSearch";
 
 function App() {
   return (

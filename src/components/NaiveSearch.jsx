@@ -1,0 +1,1 @@
+const NaivePage = () => <div>Naive String Matching Visualization Here</div>; export default NaivePage;
